@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm radouan larabi</h1>
 <h3 align="center">Front-end web developer</h3>
 
@@ -19,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radlarabi&show_icons=true&locale=en&layout=compact" alt="radlarabi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radlarabi&show_icons=true&locale=en" alt="radlarabi" /></p>
+</body>
+</html>
