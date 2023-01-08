@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm radouan larabi</h1>
 <h3 align="center">Front-end web developer</h3>
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rlarabi" alt="rlarabi's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radlarabi&label=Profile%20views&color=0e75b6&style=flat" alt="radlarabi" /> </p>
 
 - 🌱 I’m currently learning **Nodejs**
