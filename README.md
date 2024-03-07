@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi , I'm Radouan Larabi</h2>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rlarabi" alt="rlarabi's 42 stats" /></a>
+<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rlarabi" alt="rlarabi's 42 stats" /></a>
 ###
 
 <div align="center">
