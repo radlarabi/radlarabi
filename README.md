@@ -50,7 +50,4 @@
 ###
 
 <br clear="both">
-
-/*<img src="https://raw.githubusercontent.com/radlarabi/radlarabi/output/snake.svg" alt="Snake animation" />*/
-
 ###
